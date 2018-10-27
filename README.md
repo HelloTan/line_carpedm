@@ -7,7 +7,7 @@ Fix Login with QR & Authtoken
 ```
 
 ## Author
-Carpedm / [@carpedm20](https://github.com/carpedm20)
+Carpedm / [@carpedm20](https://github.com/carpedm20)  
 Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
 
 ## Support
