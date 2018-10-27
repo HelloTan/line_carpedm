@@ -18,4 +18,5 @@ Moe Poi ~ / [@moepoi](https://github.com/moepoi)
 Muhammad Fahri / [@FAHRIZTX](https://github.com/FAHRIZTX)  
 Dosugamea / [@Dosugamea](https://github.com/Dosugamea)  
 Dzin / [@dzingans](https://github.com/dzingans)  
+Alin / [@muhmursalind](https://github.com/muhmursalind)  
 And others.
