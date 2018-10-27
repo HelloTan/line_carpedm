@@ -61,7 +61,7 @@ class LineAPI(object):
         authToken. This method skip the PinCode validation step.
         """
         if self.certificate:
-            self.login(self.com_name)
+            self.login(systemName=self.com_name)
             self.tokenLogin()
             return True
         else:
