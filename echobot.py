@@ -23,7 +23,7 @@ while True:
 
         if msg.toType == 0 or msg.toType == 1 or msg.toType == 2:
             if msg.toType == 0:
-                if sender != client.getProfile().id:
+                if dari != client.getProfile().id:
                     to = dari
                 else:
                     to = to
